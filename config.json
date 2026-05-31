@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingsonnect",
+        "uuid": 20020728,
+        "checksum": "c2nhm"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
